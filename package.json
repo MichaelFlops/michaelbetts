@@ -1,14 +1,28 @@
 {
-  "name": "famous-camera",
-  "description": "Famo.us Camera Demo",
+  "name": "Michael Betts",
+  "description": "Michael Betts Portolio",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Andrew E. Rhyne",
+  "author": "Michael Betts",
   "license": "MIT",
   "devDependencies": {
     "connect": "^3.3.4",
     "serve-static": "^1.8.1"
-  }
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "domready": "^1.0.7",
+    "serve-static": "^1.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelFlops/michaelbetts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MichaelFlops/michaelbetts/issues"
+  },
+  "homepage": "https://github.com/MichaelFlops/michaelbetts"
 }
