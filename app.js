@@ -4,4 +4,4 @@ var connect = require('connect')
 
 app
   .use(serveStatic(__dirname + '/'))
-  .listen(8080);
+  .listen(80);
