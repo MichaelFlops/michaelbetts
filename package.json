@@ -1,6 +1,6 @@
 {
   "name": "Michael Betts",
-  "description": "Michael Betts Portolio",
+  "description": "Michael Betts Portfolio",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -11,14 +11,9 @@
     "connect": "^3.3.4",
     "serve-static": "^1.8.1"
   },
-  "version": "1.0.0",
-  "dependencies": {
-    "connect": "^3.3.4",
-    "domready": "^1.0.7",
-    "serve-static": "^1.8.1"
-  },
-  "engines": {
-    "node": "0.10.x"
+
+"engines": {
+    "node": "v0.10.31"
   },
   "repository": {
     "type": "git",
