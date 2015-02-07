@@ -17,6 +17,9 @@
     "domready": "^1.0.7",
     "serve-static": "^1.8.1"
   },
+  "engines": {
+    "node": "0.10.x"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/MichaelFlops/michaelbetts.git"
